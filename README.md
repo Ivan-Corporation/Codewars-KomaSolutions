@@ -1,2 +1,3 @@
 # Codewars-Solutions
-Codewars übungen
+## Codewars übungen
+## JS,TS,PY
